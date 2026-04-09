@@ -1,16 +1,22 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Inter, Cinzel } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
+});
+
+const cinzel = Cinzel({
+  variable: "--font-cinzel",
+  subsets: ["latin"],
+  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
   title: "Multi Fortune Insights — Saju, Tarot, Astrology & Numerology",
   description:
-    "Explore fortune readings across 5 ancient systems: Saju (Korean Four Pillars), Tarot, Western & Vedic Astrology, Numerology, and Zi Wei Dou Shu. Multilingual insights in Korean, English, Japanese, and Chinese.",
+    "반복되는 커리어·관계·타이밍 패턴을 다섯 독립 시스템의 수렴점으로 분석합니다. Saju, Tarot, Numerology, Vedic Astrology & Zi Wei Dou Shu.",
   metadataBase: new URL("https://blog.multifortune.xyz"),
 };
 
@@ -20,29 +26,41 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko" className={`${geistSans.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col bg-slate-50 text-gray-900">
-        <header className="border-b border-purple-900/20 bg-gradient-to-r from-slate-900 to-purple-950">
+    <html lang="ko" className={`${inter.variable} ${cinzel.variable} h-full antialiased dark`}>
+      <body className="min-h-full flex flex-col bg-deep text-lavender font-[family-name:var(--font-inter)]">
+        {/* Header */}
+        <header className="border-b border-gold/10 bg-surface backdrop-blur-xl">
           <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
-            <a href="/" className="text-xl font-bold text-amber-400">
-              🔮 Multi Fortune Insights
+            <a href="/" className="flex items-center gap-2">
+              <span className="text-xl font-[family-name:var(--font-cinzel)] font-bold text-gold">
+                ✦ Multi Fortune
+              </span>
             </a>
             <a
               href="https://www.multifortune.xyz"
-              className="text-sm font-medium text-purple-300 hover:text-amber-400 transition-colors"
+              className="text-sm font-medium text-muted-light hover:text-gold transition-colors"
             >
-              MultiFortune.xyz
+              무료 운세 분석 →
             </a>
           </div>
         </header>
+
         <main className="flex-1">{children}</main>
-        <footer className="border-t border-purple-900/20 bg-gradient-to-r from-slate-900 to-purple-950 mt-16">
-          <div className="mx-auto max-w-4xl px-6 py-8 text-center text-sm text-purple-300">
-            <p>
-              🔮 Get Your Free Multi-Fortune Analysis — 5 Ancient Systems, 1 Unified Reading →{" "}
-              <a href="https://www.multifortune.xyz" className="text-amber-400 hover:underline">
-                MultiFortune.xyz
-              </a>
+
+        {/* Footer */}
+        <footer className="border-t border-gold/10 bg-surface mt-16">
+          <div className="mx-auto max-w-4xl px-6 py-8 text-center">
+            <p className="text-muted text-sm mb-3">
+              다섯 고대 시스템의 수렴점에서 당신의 패턴을 읽습니다
+            </p>
+            <a
+              href="https://www.multifortune.xyz"
+              className="inline-block text-gold hover:text-gold-light transition-colors text-sm font-medium border border-gold/20 rounded-full px-5 py-2 hover:border-gold/40 hover:shadow-[0_0_20px_rgba(201,165,78,0.15)]"
+            >
+              🔮 무료 운세 분석 받기 — MultiFortune.xyz
+            </a>
+            <p className="text-muted/50 text-xs mt-4">
+              © 2026 Multi Fortune. All rights reserved.
             </p>
           </div>
         </footer>

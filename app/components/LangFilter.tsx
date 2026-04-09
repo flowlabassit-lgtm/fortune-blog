@@ -42,15 +42,15 @@ export function LangSelector({
   onChange: (l: string) => void;
 }) {
   return (
-    <div className="flex gap-1">
+    <div className="flex gap-1.5">
       {SUPPORTED_LANGS.map((l) => (
         <button
           key={l}
           onClick={() => onChange(l)}
-          className={`px-3 py-1 text-xs rounded-full transition-colors ${
+          className={`px-3 py-1.5 text-xs rounded-full transition-all duration-200 ${
             lang === l
-              ? "bg-purple-600 text-white"
-              : "bg-purple-50 text-purple-700 hover:bg-purple-100"
+              ? "bg-gold/20 text-gold border border-gold/40 shadow-[0_0_12px_rgba(201,165,78,0.2)]"
+              : "bg-surface-light text-muted border border-gold/10 hover:border-gold/25 hover:text-muted-light"
           }`}
         >
           {LANG_LABELS[l]}

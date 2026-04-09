@@ -51,8 +51,8 @@ export default async function PostPage({ params }: Props) {
     <article className="mx-auto max-w-3xl px-6 py-12" lang={post.lang}>
       <header className="mb-8">
         <div className="flex items-center gap-3 mb-4">
-          <time className="text-sm text-gray-500">{post.date}</time>
-          <span className="text-xs bg-purple-100 text-purple-800 px-2 py-0.5 rounded">
+          <time className="text-sm text-muted">{post.date}</time>
+          <span className="text-xs bg-gold/15 text-gold border border-gold/20 px-2.5 py-0.5 rounded-full">
             {post.lang.toUpperCase()}
           </span>
           {siblings.length > 0 && (
@@ -61,7 +61,7 @@ export default async function PostPage({ params }: Props) {
                 <a
                   key={s.lang}
                   href={`/posts/${s.slug}`}
-                  className="text-xs bg-purple-50 text-purple-700 px-2 py-0.5 rounded hover:bg-purple-100 transition-colors"
+                  className="text-xs bg-surface-light text-muted border border-gold/10 px-2.5 py-0.5 rounded-full hover:border-gold/25 hover:text-gold transition-all"
                 >
                   {s.lang.toUpperCase()}
                 </a>
@@ -69,31 +69,32 @@ export default async function PostPage({ params }: Props) {
             </span>
           )}
         </div>
-        <h1 className="text-3xl font-bold mb-4">{post.title}</h1>
-        <p className="text-lg text-gray-600">{post.description}</p>
+        <h1 className="text-3xl font-[family-name:var(--font-cinzel)] font-bold text-lavender mb-4">{post.title}</h1>
+        <p className="text-lg text-muted-light">{post.description}</p>
       </header>
 
       {post.image && (
         <img
           src={post.image}
           alt={post.title}
-          className="w-full rounded-lg mb-8"
+          className="w-full rounded-2xl mb-8 border border-gold/10"
         />
       )}
 
       <div
-        className="prose prose-lg max-w-none prose-headings:text-gray-900 prose-a:text-purple-600"
+        className="prose prose-lg prose-invert max-w-none prose-headings:text-lavender prose-headings:font-[family-name:var(--font-cinzel)] prose-a:text-gold prose-strong:text-lavender prose-p:text-muted-light"
         dangerouslySetInnerHTML={{ __html: post.contentHtml }}
       />
 
-      <div className="mt-12 p-6 bg-gradient-to-r from-purple-50 to-amber-50 border border-purple-200 rounded-lg text-center">
-        <p className="text-lg font-semibold mb-2">
-          🔮 Get Your Free Multi-Fortune Analysis
+      {/* CTA */}
+      <div className="mt-12 p-8 bg-surface border border-gold/15 rounded-2xl text-center shadow-[0_0_30px_rgba(201,165,78,0.08)]">
+        <p className="text-xl font-[family-name:var(--font-cinzel)] font-bold text-gold mb-2">
+          ✦ 무료 멀티 포춘 분석
         </p>
-        <p className="text-sm text-gray-600 mb-4">5 Ancient Systems, 1 Unified Reading</p>
+        <p className="text-sm text-muted mb-5">5가지 고대 시스템 · 1개의 통합 리딩</p>
         <a
           href="https://www.multifortune.xyz"
-          className="inline-block bg-purple-600 text-white font-medium px-6 py-3 rounded-lg hover:bg-purple-700 transition-colors"
+          className="inline-block bg-gold/15 text-gold font-medium px-8 py-3 rounded-full border border-gold/30 hover:bg-gold/25 hover:border-gold/50 hover:shadow-[0_0_25px_rgba(201,165,78,0.25)] transition-all duration-300"
         >
           MultiFortune.xyz →
         </a>
