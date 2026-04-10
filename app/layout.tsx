@@ -27,6 +27,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className={`${inter.variable} ${cinzel.variable} h-full antialiased dark`}>
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1PG85RTHV" />
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-X1PG85RTHV');` }} />
+      </head>
       <body className="min-h-full flex flex-col bg-deep text-lavender font-[family-name:var(--font-inter)]">
         {/* Header */}
         <header className="border-b border-gold/10 bg-surface backdrop-blur-xl">
