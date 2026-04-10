@@ -4,7 +4,7 @@ date: "2026-04-10"
 description: "이직, 결혼, 투자, 이사 — 인생의 큰 결정에 최적의 시점이 있다. 사주·타로·점성술·수비학·자미두수 5개 시스템의 타이밍 분석법을 하나로 통합했다."
 lang: "ko"
 tags: ["운세", "다중분석", "사주", "타로", "점성술", "수비학", "자미두수", "타이밍"]
-image: ""
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1775795150/blog/fortune-astrology/5-systems-timing-guide-2026-04.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"인생의 큰 결정, 언제 해야 할까? 5가지 운명 시스템이 말하는 최적의 타이밍","description":"사주·타로·점성술·수비학·자미두수 5개 시스템의 타이밍 분석법을 통합한 의사결정 가이드","datePublished":"2026-04-10T12:00:00.000Z","dateModified":"2026-04-10T12:00:00.000Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"운세, 다중분석, 사주, 타로, 점성술, 수비학, 자미두수, 타이밍"}</script>

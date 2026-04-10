@@ -4,7 +4,7 @@ date: "2026-04-10"
 description: "換工作、結婚、投資、搬家 — 人生重大決定有最佳時機。四柱命理·塔羅·占星·數字學·紫微斗數5大系統統合分析。"
 lang: "zh-TW"
 tags: ["運勢","多元分析","四柱命理","塔羅","占星術","數字學","紫微斗數"]
-image: ""
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1775795150/blog/fortune-astrology/5-systems-timing-guide-2026-04.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"人生重大決定，何時才是對的時機？5大命理系統告訴你最佳時間點","description":"整合八字、塔羅、占星、數字學、紫微斗數5大系統時機分析法的決策指南","datePublished":"2026-04-10T12:00:00.000Z","dateModified":"2026-04-10T12:00:00.000Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"運勢, 多重分析, 八字, 塔羅, 占星, 數字學, 紫微斗數, 時機"}</script>

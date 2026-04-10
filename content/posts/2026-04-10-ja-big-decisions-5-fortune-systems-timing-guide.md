@@ -4,7 +4,7 @@ date: "2026-04-10"
 description: "転職・結婚・投資・引越し — 人生の大きな決断に最適なタイミングがある。四柱推命・タロット・占星術・数秘術・紫微斗数5つのシステムで統合分析。"
 lang: "ja"
 tags: ["運勢","多角分析","四柱推命","タロット","占星術","数秘術","紫微斗数"]
-image: ""
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1775795150/blog/fortune-astrology/5-systems-timing-guide-2026-04.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"人生の大きな決断、いつすべきか？5つの運命システムが示す最適なタイミング","description":"四柱推命・タロット・占星術・数秘術・紫微斗数の5システムによるタイミング分析を統合した意思決定ガイド","datePublished":"2026-04-10T12:00:00.000Z","dateModified":"2026-04-10T12:00:00.000Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"運勢, 多角分析, 四柱推命, タロット, 占星術, 数秘術, 紫微斗数, タイミング"}</script>
