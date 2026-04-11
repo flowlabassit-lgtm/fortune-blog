@@ -1,4 +1,4 @@
-import { getPostBySlug, getAllSlugs, getSiblingPosts } from "@/lib/posts";
+import { getPostBySlug, getAllSlugs, getSiblingPosts, type Post } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -18,26 +18,68 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {};
 
   const siblings = getSiblingPosts(slug);
+  const url = `${SITE_URL}/posts/${slug}`;
   const alternates: Record<string, string> = {
-    [post.lang]: `${SITE_URL}/posts/${slug}`,
+    [post.lang]: url,
   };
   for (const s of siblings) {
     alternates[s.lang] = `${SITE_URL}/posts/${s.slug}`;
   }
+  const koSibling = siblings.find((s) => s.lang === "ko");
+  alternates["x-default"] = post.lang === "ko" ? url : koSibling ? `${SITE_URL}/posts/${koSibling.slug}` : url;
 
   return {
     title: `${post.title} — Multi Fortune Insights`,
     description: post.description,
+    keywords: post.tags,
+    alternates: {
+      canonical: url,
+      languages: alternates,
+    },
     openGraph: {
       title: post.title,
       description: post.description,
-      images: post.image ? [post.image] : [],
+      url,
+      siteName: "Multi Fortune Insights",
+      type: "article",
+      publishedTime: post.date,
+      authors: ["Multi Fortune"],
       locale: post.lang,
+      images: post.image
+        ? [{ url: post.image, width: 1200, height: 630, alt: post.title }]
+        : [],
+      tags: post.tags,
     },
-    alternates: {
-      languages: alternates,
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+      images: post.image ? [post.image] : [],
     },
   };
+}
+
+function ArticleJsonLd({ post, url }: { post: Post; url: string }) {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    image: post.image || undefined,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: { "@type": "Organization", name: "Multi Fortune", url: "https://www.multifortune.xyz" },
+    publisher: { "@type": "Organization", name: "Multi Fortune", url: "https://www.multifortune.xyz" },
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    inLanguage: post.lang,
+    keywords: post.tags.join(", "),
+  };
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
+  );
 }
 
 export default async function PostPage({ params }: Props) {
@@ -46,9 +88,11 @@ export default async function PostPage({ params }: Props) {
   if (!post) notFound();
 
   const siblings = getSiblingPosts(slug);
+  const url = `${SITE_URL}/posts/${slug}`;
 
   return (
     <article className="mx-auto max-w-3xl px-6 py-12" lang={post.lang}>
+      <ArticleJsonLd post={post} url={url} />
       <header className="mb-8">
         <div className="flex items-center gap-3 mb-4">
           <time className="text-sm text-muted">{post.date}</time>
