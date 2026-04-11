@@ -1,4 +1,4 @@
-import { getPostBySlug, getAllSlugs, getSiblingPosts, type Post } from "@/lib/posts";
+import { getPostBySlug, getAllSlugs, getSiblingPosts, getRelatedPosts, type Post } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -129,6 +129,43 @@ export default async function PostPage({ params }: Props) {
         className="prose prose-lg prose-invert max-w-none prose-headings:text-lavender prose-headings:font-[family-name:var(--font-cinzel)] prose-a:text-gold prose-strong:text-lavender prose-p:text-muted-light"
         dangerouslySetInnerHTML={{ __html: post.contentHtml }}
       />
+
+      {(() => {
+        const related = getRelatedPosts(slug);
+        if (related.length === 0) return null;
+        return (
+          <div className="mt-12 mb-8">
+            <h2 className="text-xl font-[family-name:var(--font-cinzel)] font-bold text-gold mb-6">
+              Related Articles
+            </h2>
+            <div className="grid gap-4">
+              {related.map((r) => (
+                <a
+                  key={r.slug}
+                  href={`/posts/${r.slug}`}
+                  className="p-5 flex gap-4 items-start bg-surface border border-gold/10 rounded-xl hover:border-gold/30 hover:shadow-[0_0_15px_rgba(201,165,78,0.1)] transition-all"
+                >
+                  {r.image && (
+                    <img
+                      src={r.image}
+                      alt={r.title}
+                      className="w-20 h-14 object-cover rounded-lg flex-shrink-0 border border-gold/10"
+                    />
+                  )}
+                  <div>
+                    <p className="font-semibold text-sm leading-snug text-lavender">
+                      {r.title}
+                    </p>
+                    <p className="text-xs mt-1 text-muted">
+                      {r.date}
+                    </p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
 
       {/* CTA */}
       <div className="mt-12 p-8 bg-surface border border-gold/15 rounded-2xl text-center shadow-[0_0_30px_rgba(201,165,78,0.08)]">

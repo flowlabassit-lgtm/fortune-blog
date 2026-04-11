@@ -72,6 +72,26 @@ export function getSiblingPosts(slug: string): { lang: string; slug: string }[] 
     .map((p) => ({ lang: p.lang, slug: p.slug }));
 }
 
+export function getRelatedPosts(slug: string, limit = 3): PostMeta[] {
+  const all = getAllPosts();
+  const current = all.find((p) => p.slug === slug);
+  if (!current || current.tags.length === 0) return [];
+
+  const datePrefix = slug.match(/^(\d{4}-\d{2}-\d{2})/)?.[1];
+  const tagSet = new Set(current.tags.map((t) => t.toLowerCase()));
+
+  return all
+    .filter((p) => p.slug !== slug && p.lang === current.lang && (!datePrefix || !p.slug.startsWith(datePrefix)))
+    .map((p) => {
+      const shared = p.tags.filter((t) => tagSet.has(t.toLowerCase())).length;
+      return { post: p, shared };
+    })
+    .filter((x) => x.shared > 0)
+    .sort((a, b) => b.shared - a.shared || (b.post.date > a.post.date ? 1 : -1))
+    .slice(0, limit)
+    .map((x) => x.post);
+}
+
 export async function getPostBySlug(slug: string): Promise<Post | null> {
   const fullPath = path.join(postsDirectory, `${slug}.md`);
   if (!fs.existsSync(fullPath)) return null;
