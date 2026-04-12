@@ -4,6 +4,7 @@ date: "2026-04-12"
 description: "Calculate your Life Path number and uncover the hidden self-sabotage pattern shaping your career and love life — plus a specific 1-step fix for each number 1–9."
 lang: "en"
 tags: ["Numerology","Life Path Numbers","Astrology","Self-Discovery","Fortune Reading","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1775968532/fortune-astrology/life-path-numbers-1-9.png"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Life Path Numbers 1–9: The Hidden Sabotage Pattern in Your Birthday Math","description":"Calculate your Life Path number and uncover the hidden self-sabotage pattern shaping your career and love life — plus a specific 1-step fix for each number 1–9.","image":"","datePublished":"2026-04-12T04:02:26.332Z","dateModified":"2026-04-12T04:02:26.332Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Numerology, Life Path Numbers, Astrology, Self-Discovery, Fortune Reading"}</script>
