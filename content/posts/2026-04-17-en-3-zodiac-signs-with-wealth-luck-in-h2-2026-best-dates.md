@@ -1,3 +1,4 @@
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776389071/blog/fortune-astrology/wealth-luck-h2-2026-04-17.webp"
 ---
 title: "3 Zodiac Signs With Wealth Luck in H2 2026 (Best Dates)"
 date: "2026-04-17"
@@ -17,6 +18,12 @@ tags: ["wealth fortune","chinese zodiac","saju 2026","investment timing","metal 
 </div>
 
 <p><em>Between July and December 2026, three Chinese zodiac signs sit inside a rare Metal-energy current — and one of them probably has no idea yet.</em></p>
+<div style="text-align:center;margin:20px 0;">
+  <img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776389071/blog/fortune-astrology/wealth-luck-h2-2026-04-17.webp" alt="2026 하반기 재물운 TOP 3"
+       style="max-width:100%;height:auto;border-radius:10px;"
+       loading="lazy" />
+</div>
+
 
 <p>The Saju day pillar today is <strong>辛酉 (Xin-You) — pure Metal stacked on Metal</strong>. That same elemental signature dominates the second half of 2026's wealth chart. Metal rules cash flow, contracts, and the cold logic markets reward.</p>
 
