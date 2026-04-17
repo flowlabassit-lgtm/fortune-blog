@@ -1,3 +1,4 @@
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776392550/blog/fortune-astrology/exhuma-five-elements-2026-04-16-v2.webp"
 ---
 title: "Five Elements in \"Exhuma\": What the Movie Gets Right About Feng Shui & Destiny"
 date: "2026-04-16"
@@ -6,7 +7,7 @@ lang: "en"
 tags: ["Five Elements","Feng Shui","Saju","Fortune Analysis","Movie Analysis","Destiny Reading","lang:en"]
 ---
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Five Elements in \"Exhuma\": What the Movie Gets Right About Feng Shui & Destiny","description":"The Korean film Exhuma reveals real Five Element principles used in feng shui and fortune reading. Here's how to apply them to your own chart.","image":"https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776341915/blog/fortune-astrology/exhuma-five-elements.webp","datePublished":"2026-04-16T11:37:18.808Z","dateModified":"2026-04-16T11:37:18.808Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Five Elements, Feng Shui, Saju, Fortune Analysis, Movie Analysis, Destiny Reading"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Five Elements in \"Exhuma\": What the Movie Gets Right About Feng Shui & Destiny","description":"The Korean film Exhuma reveals real Five Element principles used in feng shui and fortune reading. Here's how to apply them to your own chart.","image":"https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776392550/blog/fortune-astrology/exhuma-five-elements-2026-04-16-v2.webp","datePublished":"2026-04-16T11:37:18.808Z","dateModified":"2026-04-16T11:37:18.808Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Five Elements, Feng Shui, Saju, Fortune Analysis, Movie Analysis, Destiny Reading"}</script>
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Real element reading is dynamic.","acceptedAnswer":{"@type":"Answer","text":"Your birth chart has a fixed element distribution, yes. But the Yongsin (용신) — the \"useful god\" or balancing element — shifts with the seasons. Today's Saju engine calculates the Yongsin as Water and Wood, because the Day Master (庚, Metal) is too strong. The prescription isn't to remove Metal. It's to channel it through Water (expression, flow) into Wood (growth, opportunity)."}}]}</script>
 
@@ -14,7 +15,7 @@ tags: ["Five Elements","Feng Shui","Saju","Fortune Analysis","Movie Analysis","D
   6 min read · April 16, 2026
 </div>
 
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776341915/blog/fortune-astrology/exhuma-five-elements.webp" alt="Featured image" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
+<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776392550/blog/fortune-astrology/exhuma-five-elements-2026-04-16-v2.webp" alt="Featured image" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
 
 <p><strong>A coffin wrapped in a Japanese flag, buried in Korean soil, poisoning three generations of one family.</strong> That's the premise of <em>Exhuma</em> (파묘, 2024) — and the reason it became Korea's highest-grossing film of the year isn't the horror. It's that the Five Element logic behind the curse is <em>real</em>.</p>
 
