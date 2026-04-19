@@ -79,3 +79,70 @@ tags: ["Saju","Day Pillar","Ilju","60 Gapja","2026 Forecast","lang:en"]
 
 <h3>Is 2026 a good year or a bad year for my Saju?</h3>
 <p>2026 is a Yang Fire year (丙午), which favors Earth and Fire Day Masters and pressures Water Day Masters to consolidate. No Day Master has a "bad" year — only a different assignment.</p>
+
+<h2>Full 60 Day Pillar Index (Series Forthcoming)</h2>
+<p>The 60 Day Pillars below will each get a dedicated post across Episodes 2–61. Links auto-update to the corresponding episode as posts are published.</p>
+<ul class="ilju-index" style="columns:2;-webkit-columns:2;-moz-columns:2;list-style:none;padding:0;">
+  <li><a href="#" data-ilju-slug="gapja">甲子 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulchuk">乙丑 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungin">丙寅 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeongmyo">丁卯 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="mujin">戊辰 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gisa">己巳 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongo">庚午 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinmi">辛未 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imsin">壬申 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeyu">癸酉 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gapsul">甲戌 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulhae">乙亥 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungja">丙子 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeongchuk">丁丑 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="muin">戊寅 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gimyo">己卯 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongjin">庚辰 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinsa">辛巳 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imo">壬午 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyemi">癸未 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gapsin">甲申 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulyu">乙酉 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungsul">丙戌 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeonghae">丁亥 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="muja">戊子 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gichuk">己丑 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongin">庚寅 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinmyo">辛卯 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imjin">壬辰 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyesa">癸巳 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gapo">甲午 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulmi">乙未 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungsin">丙申 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeongyu">丁酉 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="musul">戊戌 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gihae">己亥 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongja">庚子 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinchuk">辛丑 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imin">壬寅 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyemyo">癸卯 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gapjin">甲辰 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulsa">乙巳 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungo">丙午 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeongmi">丁未 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="musin">戊申 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="giyu">己酉 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongsul">庚戌 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinhae">辛亥 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imja">壬子 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyechuk">癸丑 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gapin">甲寅 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="eulmyo">乙卯 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="byungjin">丙辰 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="jeongsa">丁巳 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="muo">戊午 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gimi">己未 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyeongsin">庚申 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="sinyu">辛酉 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="imsul">壬戌 Day Pillar</a></li>
+  <li><a href="#" data-ilju-slug="gyehae">癸亥 Day Pillar</a></li>
+</ul>
+<!-- ILJU-SLUG-MAP: 甲子=gapja, 乙丑=eulchuk, 丙寅=byungin, 丁卯=jeongmyo, 戊辰=mujin, 己巳=gisa, 庚午=gyeongo, 辛未=sinmi, 壬申=imsin, 癸酉=gyeyu, 甲戌=gapsul, 乙亥=eulhae, 丙子=byungja, 丁丑=jeongchuk, 戊寅=muin, 己卯=gimyo, 庚辰=gyeongjin, 辛巳=sinsa, 壬午=imo, 癸未=gyemi, 甲申=gapsin, 乙酉=eulyu, 丙戌=byungsul, 丁亥=jeonghae, 戊子=muja, 己丑=gichuk, 庚寅=gyeongin, 辛卯=sinmyo, 壬辰=imjin, 癸巳=gyesa, 甲午=gapo, 乙未=eulmi, 丙申=byungsin, 丁酉=jeongyu, 戊戌=musul, 己亥=gihae, 庚子=gyeongja, 辛丑=sinchuk, 壬寅=imin, 癸卯=gyemyo, 甲辰=gapjin, 乙巳=eulsa, 丙午=byungo, 丁未=jeongmi, 戊申=musin, 己酉=giyu, 庚戌=gyeongsul, 辛亥=sinhae, 壬子=imja, 癸丑=gyechuk, 甲寅=gapin, 乙卯=eulmyo, 丙辰=byungjin, 丁巳=jeongsa, 戊午=muo, 己未=gimi, 庚申=gyeongsin, 辛酉=sinyu, 壬戌=imsul, 癸亥=gyehae -->
+
