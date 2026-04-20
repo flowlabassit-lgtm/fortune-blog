@@ -1,3 +1,4 @@
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776650288/blog/fortune-astrology/gapja-ep2-2026-04-20.webp"
 ---
 title: "Gapja Day Pillar 2026: Monthly Moves & 4 Hour-Pillar Splits"
 date: "2026-04-20"
@@ -13,6 +14,8 @@ tags: ["saju","day pillar","gapja","2026 forecast","ilju series","lang:en"]
 </div>
 
 <p>If your Saju Day Pillar is <strong>Gapja (甲子)</strong>, you are the first of the sixty — a freshly sprouted oak standing in midnight water. That sounds poetic. The practical translation is harder: you grow fast, but your roots are always thirsty, and 2026 is the year that thirst gets tested.</p>
+<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776650288/blog/fortune-astrology/gapja-ep2-2026-04-20.webp" alt="갑자일주 Ep.2 — 2026 월별 액션 + 시주 4조합" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
+
 
 <p>This is Episode 2 of the Ilju series. Episode 1 showed you how to find your day pillar. Today we get specific: a monthly action map for the rest of 2026, the four hour-pillar variants that completely change how Gapja behaves, and one real chart we ran through the Element Checker.</p>
 
