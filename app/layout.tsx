@@ -28,6 +28,7 @@ export default function RootLayout({
   return (
     <html lang="ko" className={`${inter.variable} ${cinzel.variable} h-full antialiased dark`}>
       <head>
+        <link rel="alternate" type="application/rss+xml" title="Multi Fortune Blog" href="https://blog.multifortune.xyz/feed.xml" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-32YS6TDP60" />
         <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-32YS6TDP60');` }} />
       </head>
