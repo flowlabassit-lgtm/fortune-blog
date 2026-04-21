@@ -5,19 +5,34 @@ const MAIN_URL = 'https://www.multifortune.xyz';
 
 export const dynamic = 'force-static';
 
+function escapeCdata(value: string): string {
+  return value.replace(/]]>/g, ']]]]><![CDATA[>');
+}
+
+function escapeXml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 export async function GET() {
   const posts = getAllPosts().slice(0, 50);
 
   const items = posts
     .filter((p) => p.date && p.title)
     .map((p) => {
-      const url = `${SITE_URL}/posts/${p.slug}`;
+      const url = `${SITE_URL}/posts/${escapeXml(p.slug)}`;
       const pubDate = new Date(p.date).toUTCString();
-      const desc = p.description ? `<description><![CDATA[${p.description}]]></description>` : '';
-      const lang = p.lang ? `<dc:language>${p.lang}</dc:language>` : '';
+      const desc = p.description
+        ? `<description><![CDATA[${escapeCdata(p.description)}]]></description>`
+        : '';
+      const lang = p.lang ? `<dc:language>${escapeXml(p.lang)}</dc:language>` : '';
       return `
     <item>
-      <title><![CDATA[${p.title}]]></title>
+      <title><![CDATA[${escapeCdata(p.title)}]]></title>
       <link>${url}</link>
       <guid isPermaLink="true">${url}</guid>
       <pubDate>${pubDate}</pubDate>
