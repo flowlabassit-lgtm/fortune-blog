@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777014591/blog/fortune-astrology/jeongmyo-ep5-2026-04-24.webp"
 ---
 title: "Jeongmyo Day Pillar (Ep. 5): 2026 Monthly Map & Hour Splits"
 date: "2026-04-24"
 description: "Jeongmyo (丁卯) day pillar 2026 guide — 12-month action map, 4 hour pillar splits, and the one rule most readers get backward."
 lang: "en"
 tags: ["Saju","Day Pillar","Jeongmyo","2026 Forecast","Korean Astrology","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777014591/blog/fortune-astrology/jeongmyo-ep5-2026-04-24.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Jeongmyo Day Pillar (Ep. 5): 2026 Monthly Map & Hour Splits","description":"Jeongmyo (丁卯) day pillar 2026 guide — 12-month action map, 4 hour pillar splits, and the one rule most readers get backward.","image":"","datePublished":"2026-04-24T07:07:47.514Z","dateModified":"2026-04-24T07:07:47.514Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Saju, Day Pillar, Jeongmyo, 2026 Forecast, Korean Astrology"}</script>

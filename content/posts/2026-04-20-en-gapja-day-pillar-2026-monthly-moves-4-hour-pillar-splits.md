@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776650288/blog/fortune-astrology/gapja-ep2-2026-04-20.webp"
 ---
 title: "Gapja Day Pillar 2026: Monthly Moves & 4 Hour-Pillar Splits"
 date: "2026-04-20"
 description: "Born on a Gapja day? Get a month-by-month 2026 action plan, four hour-pillar variants compared, and a real Element Checker case study."
 lang: "en"
 tags: ["saju","day pillar","gapja","2026 forecast","ilju series","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776650288/blog/fortune-astrology/gapja-ep2-2026-04-20.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Gapja Day Pillar 2026: Monthly Moves & 4 Hour-Pillar Splits","description":"Born on a Gapja day? Get a month-by-month 2026 action plan, four hour-pillar variants compared, and a real Element Checker case study.","image":"","datePublished":"2026-04-20T01:44:00.217Z","dateModified":"2026-04-20T01:44:00.217Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"saju, day pillar, gapja, 2026 forecast, ilju series"}</script>

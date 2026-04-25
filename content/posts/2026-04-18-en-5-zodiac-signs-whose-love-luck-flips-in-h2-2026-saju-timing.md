@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776513016/blog/fortune-astrology/love-luck-h2-2026-04-18.webp"
 ---
 title: "5 Zodiac Signs Whose Love Luck Flips in H2 2026: Saju Timing"
 date: "2026-04-18"
 description: "Saju reveals 5 zodiac animals whose love luck reverses in H2 2026. Find your sign, the exact month your window opens, and one move to make first."
 lang: "en"
 tags: ["Saju","Love Forecast","2026 Zodiac","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776513016/blog/fortune-astrology/love-luck-h2-2026-04-18.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"5 Zodiac Signs Whose Love Luck Flips in H2 2026: Saju Timing","description":"Saju reveals 5 zodiac animals whose love luck reverses in H2 2026. Find your sign, the exact month your window opens, and one move to make first.","image":"","datePublished":"2026-04-18T11:24:22.498Z","dateModified":"2026-04-18T11:24:22.498Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Saju, Love Forecast, 2026 Zodiac"}</script>

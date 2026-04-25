@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776561648/blog/fortune-astrology/ilju-series-ep1-2026-04-19.webp"
 ---
 title: "Find Your Saju Day Pillar in 60 Seconds: Episode 1 of the Ilju Series"
 date: "2026-04-19"
 description: "Use multifortune.xyz's Element Checker to identify your Saju day pillar, then map it to the full 60 Gapja cycle and 2026's Fire-Water tension."
 lang: "en"
 tags: ["Saju","Day Pillar","Ilju","60 Gapja","2026 Forecast","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776561648/blog/fortune-astrology/ilju-series-ep1-2026-04-19.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Find Your Saju Day Pillar in 60 Seconds: Episode 1 of the Ilju Series","description":"Use multifortune.xyz's Element Checker to identify your Saju day pillar, then map it to the full 60 Gapja cycle and 2026's Fire-Water tension.","image":"","datePublished":"2026-04-19T01:15:30.538Z","dateModified":"2026-04-19T01:15:30.538Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Saju, Day Pillar, Ilju, 60 Gapja, 2026 Forecast"}</script>

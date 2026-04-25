@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776685716/blog/fortune-astrology/eulchuk-ep3-2026-04-20-pm.webp"
 ---
 title: "Eulchuk Day Pillar Ep.3: 2026 Monthly Moves & Hour Pillar Splits"
 date: "2026-04-20"
 description: "Your Yin Wood Ox (乙丑) day pillar guide for 2026: month-by-month actions, 4 hour pillar splits, and a real Element Checker case."
 lang: "en"
 tags: ["lang:en","saju","day pillar","eulchuk","2026 forecast","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776685716/blog/fortune-astrology/eulchuk-ep3-2026-04-20-pm.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Eulchuk Day Pillar Ep.3: 2026 Monthly Moves & Hour Pillar Splits","description":"Your Yin Wood Ox (乙丑) day pillar guide for 2026: month-by-month actions, 4 hour pillar splits, and a real Element Checker case.","image":"","datePublished":"2026-04-20T11:43:24.006Z","dateModified":"2026-04-20T11:43:24.006Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"lang:en, saju, day pillar, eulchuk, 2026 forecast"}</script>

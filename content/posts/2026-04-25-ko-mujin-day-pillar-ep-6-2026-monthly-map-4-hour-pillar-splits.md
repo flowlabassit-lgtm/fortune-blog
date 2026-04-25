@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 title: "무진일주 Ep.6: 2026 월별 흐름과 시주 4조합 실전"
 date: "2026-04-25"
 description: "무진일주(戊辰) 괴강살의 진짜 강점과 약점, 2026년 월별 액션과 시주 4조합 실전 비교를 60일주 시리즈 6화로 정리합니다."
 lang: "ko"
 tags: ["사주","일주","무진일주","2026운세","괴강살","lang:ko"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"무진일주 Ep.6: 2026 월별 흐름과 시주 4조합 실전","description":"무진일주(戊辰) 괴강살의 진짜 강점과 약점, 2026년 월별 액션과 시주 4조합 실전 비교를 60일주 시리즈 6화로 정리합니다.","image":"","datePublished":"2026-04-25T01:07:18.812Z","dateModified":"2026-04-25T01:07:18.812Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"사주, 일주, 무진일주, 2026운세, 괴강살"}</script>

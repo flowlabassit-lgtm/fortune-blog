@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 title: "戊辰日柱Ep.6：2026月別行動と時柱4組実戦"
 date: "2026-04-25"
 description: "戊辰日柱の2026年5月-12月の月別アクションと時柱4組(子/卯/午/酉)の使い分け。土強格の財官バランス実戦ガイド。"
 lang: "ja"
 tags: ["日柱シリーズ","戊辰","2026運勢","四柱推命","lang:ja","lang:ja"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"戊辰日柱Ep.6：2026月別行動と時柱4組実戦","description":"戊辰日柱の2026年5月-12月の月別アクションと時柱4組(子/卯/午/酉)の使い分け。土強格の財官バランス実戦ガイド。","image":"","datePublished":"2026-04-25T02:03:57.532Z","dateModified":"2026-04-25T02:03:57.532Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"日柱シリーズ, 戊辰, 2026運勢, 四柱推命, lang:ja"}</script>

@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776389071/blog/fortune-astrology/wealth-luck-h2-2026-04-17.webp"
 ---
 title: "3 Zodiac Signs With Wealth Luck in H2 2026 (Best Dates)"
 date: "2026-04-17"
 description: "Rooster, Ox, and Snake catch a rare Metal-energy wealth window in H2 2026. Get the exact investment timing dates and what NOT to chase this autumn cycle."
 lang: "en"
 tags: ["wealth fortune","chinese zodiac","saju 2026","investment timing","metal element","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776389071/blog/fortune-astrology/wealth-luck-h2-2026-04-17.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"3 Zodiac Signs With Wealth Luck in H2 2026 (Best Dates)","description":"Rooster, Ox, and Snake catch a rare Metal-energy wealth window in H2 2026. Get the exact investment timing dates and what NOT to chase this autumn cycle.","image":"","datePublished":"2026-04-17T00:49:32.312Z","dateModified":"2026-04-17T00:49:32.312Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"wealth fortune, chinese zodiac, saju 2026, investment timing, metal element"}</script>

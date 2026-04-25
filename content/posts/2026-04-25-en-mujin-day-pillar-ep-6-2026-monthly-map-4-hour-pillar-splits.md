@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 title: "Mujin Day Pillar Ep.6: 2026 Monthly Map + 4 Hour-Pillar Splits"
 date: "2026-04-25"
 description: "Born on a 戊辰 day? Here's the month-by-month 2026 action map for Mujin day pillar, plus how 4 hour-pillar combinations change your play."
 lang: "en"
 tags: ["saju","day pillar","mujin","2026 forecast","four pillars","lang:en"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Mujin Day Pillar Ep.6: 2026 Monthly Map + 4 Hour-Pillar Splits","description":"Born on a 戊辰 day? Here's the month-by-month 2026 action map for Mujin day pillar, plus how 4 hour-pillar combinations change your play.","image":"","datePublished":"2026-04-25T01:58:07.273Z","dateModified":"2026-04-25T01:58:07.273Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"saju, day pillar, mujin, 2026 forecast, four pillars"}</script>

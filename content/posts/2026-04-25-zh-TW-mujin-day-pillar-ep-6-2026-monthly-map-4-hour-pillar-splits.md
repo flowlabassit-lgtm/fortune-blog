@@ -1,10 +1,10 @@
-image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 title: "戊辰日主Ep.6：2026月曆實戰與時柱4組合"
 date: "2026-04-25"
 description: "戊辰日主完整解析！2026丙午年逐月走勢、甲子/壬子/庚午/丙午四組時柱實戰策略，附龍宮藏干的隱藏風險揭密。"
 lang: "zh-TW"
 tags: ["四柱八字","日柱系列","戊辰日主","2026年運勢","時柱組合","Traditional Chinese","lang:zh-TW"]
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp"
 ---
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"戊辰日主Ep.6：2026月曆實戰與時柱4組合","description":"戊辰日主完整解析！2026丙午年逐月走勢、甲子/壬子/庚午/丙午四組時柱實戰策略，附龍宮藏干的隱藏風險揭密。","image":"","datePublished":"2026-04-25T02:20:19.708Z","dateModified":"2026-04-25T02:20:19.708Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"四柱八字, 日柱系列, 戊辰日主, 2026年運勢, 時柱組合, Traditional Chinese"}</script>
