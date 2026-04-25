@@ -18,10 +18,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776685716/blog/fortu
 </div>
 
 <p><strong>Eulchuk (乙丑) isn't Gapja's quieter cousin.</strong> It's a completely different engine — Yin Wood rooted in damp Ox earth, which means your 2026 won't run on momentum. It runs on compost.</p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776685716/blog/fortune-astrology/eulchuk-ep3-2026-04-20-pm.webp" alt="을축일주 Ep.3 2026 월별 액션" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
-
 <p>In Episode 2 we mapped Gapja's year. This post is only for the <strong>Eulchuk day pillar</strong> — and by the last paragraph you'll know which month to push, which to hoard, and how your hour pillar changes the whole read.</p>
 
 <h2>Why Eulchuk 2026 behaves opposite to Gapja 2026</h2>

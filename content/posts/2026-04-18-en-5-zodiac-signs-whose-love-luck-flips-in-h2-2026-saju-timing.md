@@ -10,9 +10,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776513016/blog/fortu
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"5 Zodiac Signs Whose Love Luck Flips in H2 2026: Saju Timing","description":"Saju reveals 5 zodiac animals whose love luck reverses in H2 2026. Find your sign, the exact month your window opens, and one move to make first.","image":"","datePublished":"2026-04-18T11:24:22.498Z","dateModified":"2026-04-18T11:24:22.498Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Saju, Love Forecast, 2026 Zodiac"}</script>
 
 <p style="text-align:center;margin:24px 0;"><a href="https://www.multifortune.xyz" target="_blank" rel="noopener" style="color:#d4af37;text-decoration:underline;font-size:16px;">🔮 Get Your Free Multi-Fortune Analysis — 5 Ancient Systems, 1 Unified Reading → MultiFortune.xyz</a></p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776513016/blog/fortune-astrology/love-luck-h2-2026-04-18.webp" alt="2026 하반기 연애운 TOP 5" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
 <div style="font-size:14px;color:#777;margin:8px 0 20px;">
   9 min read · April 18, 2026
 </div>

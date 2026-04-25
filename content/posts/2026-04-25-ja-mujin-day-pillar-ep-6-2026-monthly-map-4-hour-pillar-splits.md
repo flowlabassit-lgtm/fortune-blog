@@ -10,10 +10,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortu
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"戊辰日柱Ep.6：2026月別行動と時柱4組実戦","description":"戊辰日柱の2026年5月-12月の月別アクションと時柱4組(子/卯/午/酉)の使い分け。土強格の財官バランス実戦ガイド。","image":"","datePublished":"2026-04-25T02:03:57.532Z","dateModified":"2026-04-25T02:03:57.532Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"日柱シリーズ, 戊辰, 2026運勢, 四柱推命, lang:ja"}</script>
 
 <p>戊辰日柱のあなたへ最初に伝えたい一文。<strong>2026年は「土を削る年」であって、「土を盛る年」ではありません。</strong>本記事を読み終える10分後には、5月から12月までどの月に何をやめるか、そしてあなたの生まれ時間(時柱)が子/卯/午/酉のどれに該当するかで何が変わるかが、紙に書ける状態になります。</p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp" alt="戊辰일주 Ep.6 — 2026 월별 흐름과 시주 4조합 실전" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
-
 <p>🔮 <a href="https://www.multifortune.xyz">Get Your Free Multi-Fortune Analysis — 5 Ancient Systems, 1 Unified Reading → MultiFortune.xyz</a></p>
 
 <h2>まず数字で見る、戊辰の2026年エネルギー配分</h2>

@@ -16,9 +16,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776561648/blog/fortu
 </div>
 
 <p>Your day pillar — the <strong>Ilju (일주)</strong> — is the single most important data point in your entire Saju chart. It is not your zodiac animal. It is not your year. It is the two characters that describe <em>you</em>, the person reading this sentence right now.</p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776561648/blog/fortune-astrology/ilju-series-ep1-2026-04-19.webp" alt="일주 시리즈 Episode 1 — 60갑자 지도" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
 <p>Most Korean fortune sites bury this behind a paywall or a 40-question intake form. You can find it in under a minute. Here is exactly how, and what to do once you have it.</p>
 
 <h2>Step 1: Get Your Day Pillar in 60 Seconds</h2>

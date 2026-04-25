@@ -18,9 +18,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortu
 </div>
 
 <p><strong>If your Saju day pillar is 戊辰 (Mujin), 2026 is not a "wait and see" year for you.</strong> It's a year where the Earth-Dragon energy you carry meets a Fire-Horse year (丙午) — and that combination either calcifies your patterns or finally breaks them open. Which one happens depends on what you do between May and September.</p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp" alt="戊辰일주 Ep.6 — 2026 월별 흐름과 시주 4조합 실전" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
 <p>By the end of this guide, you'll have a month-by-month action map for 2026, plus how your specific hour pillar (子·午·卯·酉) tilts the play. No vague "stay positive" advice — concrete moves, with the ones that don't work flagged honestly.</p>
 
 <h2>Why Mujin in 2026 is structurally different</h2>

@@ -14,9 +14,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776392550/blog/fortu
 <div style="font-size:12px;color:#777;margin:8px 0 20px;">
   6 min read · April 16, 2026
 </div>
-
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1776392550/blog/fortune-astrology/exhuma-five-elements-2026-04-16-v2.webp" alt="Featured image" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
 <p><strong>A coffin wrapped in a Japanese flag, buried in Korean soil, poisoning three generations of one family.</strong> That's the premise of <em>Exhuma</em> (파묘, 2024) — and the reason it became Korea's highest-grossing film of the year isn't the horror. It's that the Five Element logic behind the curse is <em>real</em>.</p>
 
 <p>The feng shui master in the film doesn't wave his hands and chant. He reads the land. He measures element flow. He identifies where Metal is strangling Wood — and why that's killing the firstborn son. If you've ever wondered whether the Five Elements (五行) in your own chart carry that kind of weight, the answer is yes. Here's how to read them.</p>

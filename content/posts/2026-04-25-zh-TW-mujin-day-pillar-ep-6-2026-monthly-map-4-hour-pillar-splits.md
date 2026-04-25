@@ -12,10 +12,6 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortu
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"獲取免費多系統命運分析 — 5大古法系統，統一解讀 → MultiFortune.xyz","acceptedAnswer":{"@type":"Answer","text":"戊辰日主有一個少被提及的特質：辰中藏著三種元素——戊土、癸水、乙木。這讓你天生比其他土日主的命局更複雜，內部張力更大，也更有彈性。龍（辰）不是單純的土，它是藏水的土。"}}]}</script>
 
 <p>🔮 <strong><a href="https://www.multifortune.xyz">獲取免費多系統命運分析 — 5大古法系統，統一解讀 → MultiFortune.xyz</a></strong></p>
-<p style="text-align:center;margin:24px 0;"><img src="https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777083703/blog/fortune-astrology/mujin-ep6-2026-04-25.webp" alt="戊辰日主 Ep.6 — 2026 月曆實戰與時柱4組合" style="max-width:100%;border-radius:12px;" loading="lazy" /></p>
-
-
-
 <p>戊辰日主有一個少被提及的特質：<strong>辰中藏著三種元素</strong>——戊土、癸水、乙木。這讓你天生比其他土日主的命局更複雜，內部張力更大，也更有彈性。龍（辰）不是單純的土，它是藏水的土。</p>
 
 <p>2026年丙午年，天干丙火直接生土，表面看是「印星助身」的順遂年份。但辰（龍）逢午（馬）有暗動之象——午火蒸發辰中癸水，<strong>財源可能在最繁忙的月份悄悄乾涸</strong>。這才是今年真正需要管理的風險。</p>
