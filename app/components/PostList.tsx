@@ -43,7 +43,15 @@ export function PostList({ posts }: { posts: PostMeta[] }) {
                     </span>
                   ))}
               </div>
-              <Link href={`/posts/${post.slug}`}>
+              <Link href={`/posts/${post.slug}`} className="block">
+                {post.image && (
+                  <img
+                    src={post.image}
+                    alt={post.title}
+                    className="w-full h-48 object-cover rounded-lg mb-4 border border-gold/10"
+                    loading="lazy"
+                  />
+                )}
                 <h2 className="text-lg font-semibold text-lavender hover:text-gold transition-colors mb-2">
                   {post.title}
                 </h2>
