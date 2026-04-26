@@ -1,4 +1,5 @@
 ---
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777189121/blog/fortune-astrology/fortune-2026-04-26.webp"
 title: "Gisa (己巳) Day Pillar Ep.7: 2026 Monthly Map + 4 Hour Splits"
 date: "2026-04-26"
 description: "Gisa (己巳) day pillar 2026 guide: month-by-month flow, 4 hour-pillar combinations, and the contrarian read most Saju books skip."
