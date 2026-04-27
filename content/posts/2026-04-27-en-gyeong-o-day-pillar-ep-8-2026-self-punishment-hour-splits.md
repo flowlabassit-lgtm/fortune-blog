@@ -1,4 +1,5 @@
 ---
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777255442/blog/fortune-astrology/fortune-2026-04-27.webp"
 title: "Gyeong-O Day Pillar Ep.8: 2026 Self-Punishment & Hour Splits"
 date: "2026-04-27"
 description: "Gyeong-O (庚午) day pillar 2026 forecast: why 午午 self-punishment hits this pillar hardest, monthly action map, and 4 hour-pillar splits for career and love."
