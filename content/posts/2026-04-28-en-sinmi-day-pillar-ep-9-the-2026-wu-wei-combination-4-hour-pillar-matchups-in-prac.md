@@ -1,4 +1,5 @@
 ---
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777343814/blog/fortune-astrology/fortune-2026-04-28.webp"
 title: "Sinmi Day Pillar Ep.9: The 2026 Wu-Wei Combination & 4 Hour Pillar Matchups in Practice"
 date: "2026-04-28"
 description: "Sinmi Day Pillar Ep.9: The 2026 Wu-Wei Combination & 4 Hour Pillar Matchups in Practice"
