@@ -35,18 +35,25 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-deep text-lavender font-[family-name:var(--font-inter)]">
         {/* Header */}
         <header className="border-b border-gold/10 bg-surface backdrop-blur-xl">
-          <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
+          <div className="mx-auto max-w-4xl px-6 py-4 flex flex-wrap items-center justify-between gap-3">
             <a href="/" className="flex items-center gap-2">
               <span className="text-xl font-[family-name:var(--font-cinzel)] font-bold text-gold">
                 ✦ Multi Fortune
               </span>
             </a>
-            <a
-              href="https://www.multifortune.xyz"
-              className="text-sm font-medium text-muted-light hover:text-gold transition-colors"
-            >
-              무료 운세 분석 →
-            </a>
+            <nav className="flex items-center gap-3 text-sm text-muted-light flex-wrap">
+              <a href="/ko" className="hover:text-gold transition-colors">한국어</a>
+              <a href="/en" className="hover:text-gold transition-colors">English</a>
+              <a href="/ja" className="hover:text-gold transition-colors">日本語</a>
+              <a href="/zh-TW" className="hover:text-gold transition-colors">繁體中文</a>
+              <a href="/archive" className="hover:text-gold transition-colors">Archive</a>
+              <a
+                href="https://www.multifortune.xyz"
+                className="font-medium text-gold-light hover:text-gold transition-colors border-l border-gold/15 pl-3 ml-1"
+              >
+                무료 운세 분석 →
+              </a>
+            </nav>
           </div>
         </header>
 

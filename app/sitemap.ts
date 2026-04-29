@@ -15,6 +15,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     }));
 
+  const hubEntries: MetadataRoute.Sitemap = [
+    "/archive",
+    "/ko",
+    "/en",
+    "/ja",
+    "/zh-TW",
+  ].map((p) => ({
+    url: `${SITE_URL}${p}`,
+    lastModified: new Date(),
+    changeFrequency: "daily" as const,
+    priority: 0.9,
+  }));
+
   return [
     {
       url: SITE_URL,
@@ -22,6 +35,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: 1,
     },
+    ...hubEntries,
     ...postEntries,
   ];
 }
