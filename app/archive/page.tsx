@@ -9,6 +9,13 @@ export const metadata: Metadata = {
     "사주·타로·점성술·수비학·자미두수 모든 글의 전체 아카이브. 한국어·English·日本語·繁體中文 4개 언어로 정리되어 있습니다.",
   alternates: {
     canonical: "https://blog.multifortune.xyz/archive",
+    languages: {
+      ko: "https://blog.multifortune.xyz/ko",
+      en: "https://blog.multifortune.xyz/en",
+      ja: "https://blog.multifortune.xyz/ja",
+      "zh-TW": "https://blog.multifortune.xyz/zh-TW",
+      "x-default": "https://blog.multifortune.xyz/archive",
+    },
   },
 };
 

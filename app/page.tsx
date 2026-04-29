@@ -1,5 +1,19 @@
+import type { Metadata } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { PostList } from "./components/PostList";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://blog.multifortune.xyz/",
+    languages: {
+      ko: "https://blog.multifortune.xyz/ko",
+      en: "https://blog.multifortune.xyz/en",
+      ja: "https://blog.multifortune.xyz/ja",
+      "zh-TW": "https://blog.multifortune.xyz/zh-TW",
+      "x-default": "https://blog.multifortune.xyz/",
+    },
+  },
+};
 
 export default function Home() {
   const posts = getAllPosts();
