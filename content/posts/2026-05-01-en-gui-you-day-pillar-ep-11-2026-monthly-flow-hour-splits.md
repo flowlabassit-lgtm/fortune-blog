@@ -1,4 +1,5 @@
 ---
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777601182/blog/fortune-astrology/fortune-2026-05-01.webp"
 title: "Gui-You Day Pillar Ep.11: 2026 Monthly Flow & Hour Splits"
 date: "2026-05-01"
 description: "Gui-You (癸酉) day pillar 2026: 丙癸합 wealth activation, monthly Saju strategy, and 4 hour pillar archetypes. Peak windows: Sep & Oct–Nov."
