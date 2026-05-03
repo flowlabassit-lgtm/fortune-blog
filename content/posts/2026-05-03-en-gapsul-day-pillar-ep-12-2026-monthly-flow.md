@@ -6,6 +6,8 @@ lang: "en"
 tags: ["Gapsul Day Pillar","60 Jiazi","Saju","Four Pillars","lang:en"]
 ---
 
+<script type="application/json" id="hreflang-map">{"ko":"https://blog.multifortune.xyz/posts/2026-05-03-ko-ep-12-2026","en":"https://blog.multifortune.xyz/posts/2026-05-03-en-gapsul-day-pillar-ep-12-2026-monthly-flow","ja":"https://blog.multifortune.xyz/posts/2026-05-03-ja-ep-12-2026","zh-TW":"https://blog.multifortune.xyz/posts/2026-05-03-zh-TW-ep-12-2026"}</script>
+
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Gapsul Day Pillar Ep.12: 2026 Monthly Flow","description":"A practical guide to the Gapsul day pillar, 2026 monthly flow, hour-pillar combinations, and compatibility scores from Multi Fortune data.","image":"","datePublished":"2026-05-03T12:11:10.174Z","dateModified":"2026-05-03T12:11:10.174Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Gapsul Day Pillar, 60 Jiazi, Saju, Four Pillars"}</script>
 
 <div style="font-size:13px;color:#888;margin:8px 0 20px;">
