@@ -1,4 +1,5 @@
 ---
+image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777858331/blog/fortune-astrology/fortune-gapsul-2026-05-03.jpg"
 title: "Gapsul Day Pillar Ep.12: 2026 Monthly Flow"
 date: "2026-05-03"
 description: "A practical guide to the Gapsul day pillar, 2026 monthly flow, hour-pillar combinations, and compatibility scores from Multi Fortune data."
