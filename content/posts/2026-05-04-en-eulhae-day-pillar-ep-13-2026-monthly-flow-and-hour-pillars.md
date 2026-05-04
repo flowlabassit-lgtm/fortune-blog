@@ -7,6 +7,8 @@ tags: ["Eulhae Day Pillar","60 Pillars","Saju","lang:en"]
 image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777857345/blog/fortune-astrology/fortune-eulhae-2026-05-04.jpg"
 ---
 
+<script type="application/json" id="hreflang-map">{"ko":"https://blog.multifortune.xyz/posts/2026-05-04-ko-ep-13-2026-12","en":"https://blog.multifortune.xyz/posts/2026-05-04-en-eulhae-day-pillar-ep-13-2026-monthly-flow-and-hour-pillars","ja":"https://blog.multifortune.xyz/posts/2026-05-04-ja-ep-13-2026-12","zh-TW":"https://blog.multifortune.xyz/posts/2026-05-04-zh-TW-ep-13-2026-12"}</script>
+
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Eulhae Day Pillar Ep.13: 2026 Monthly Flow and Hour Pillars","description":"A practical reading of the Eulhae day pillar, including personality themes, 2026 monthly flow, hour-pillar combinations, and relationship guidance.","image":"https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777857345/blog/fortune-astrology/fortune-eulhae-2026-05-04.jpg","datePublished":"2026-05-04T01:19:05.103Z","dateModified":"2026-05-04T01:19:05.103Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Eulhae Day Pillar, 60 Pillars, Saju, lang:en"}</script>
 
 <div style="font-size:13px;color:#777;margin:8px 0 20px;">
