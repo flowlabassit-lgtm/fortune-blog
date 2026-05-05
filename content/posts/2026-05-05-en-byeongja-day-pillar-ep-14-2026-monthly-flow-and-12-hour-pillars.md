@@ -7,7 +7,8 @@ tags: ["Byeongja Day Pillar","60 Pillars","Saju","2026 Fortune","lang:en"]
 image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777949975/blog/fortune-astrology/fortune-byeongja-2026-05-05.webp"
 ---
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Byeongja Day Pillar Ep.14: 2026 Monthly Flow and 12 Hour Pillars","description":"A practical reading of the Byeongja day pillar, including personality themes, 2026 monthly flow, hour-pillar combinations, and relationship guidance.","image":"https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777949975/blog/fortune-astrology/fortune-byeongja-2026-05-05.webp","datePublished":"2026-05-05T03:01:25.565Z","dateModified":"2026-05-05T03:01:25.565Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Byeongja Day Pillar, 60 Pillars, Saju, 2026 Fortune"}</script>
+<script type="application/json" id="hreflang-map">{"ko":"https://blog.multifortune.xyz/posts/2026-05-05-ko-ep-14-2026-12","en":"https://blog.multifortune.xyz/posts/2026-05-05-en-byeongja-day-pillar-ep-14-2026-monthly-flow-and-12-hour-pillars","ja":"https://blog.multifortune.xyz/posts/2026-05-05-ja-ep-14-2026","zh-TW":"https://blog.multifortune.xyz/posts/2026-05-05-zh-TW-ep-14-2026"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Byeongja Day Pillar Ep.14: 2026 Monthly Flow and 12 Hour Pillars","description":"A practical reading of the Byeongja day pillar, including personality themes, 2026 monthly flow, hour-pillar combinations, and relationship guidance.","image":"https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777949975/blog/fortune-astrology/fortune-byeongja-2026-05-05.webp","datePublished":"2026-05-05T03:01:42.896Z","dateModified":"2026-05-05T03:01:42.896Z","author":{"@type":"Person","name":"Multi Fortune Insights"},"keywords":"Byeongja Day Pillar, 60 Pillars, Saju, 2026 Fortune, lang:en"}</script>
 
 <p style="text-align:center;margin:24px 0;"><a href="https://www.multifortune.xyz" target="_blank" rel="noopener" style="color:#d4af37;text-decoration:underline;font-size:16px;">Get Your Free Multi-Fortune Analysis - MultiFortune.xyz</a></p>
 
@@ -33,5 +34,5 @@ image: "https://res.cloudinary.com/ddrvtv4ul/image/upload/v1777949975/blog/fortu
 
 
 <p style="font-size:13px;color:#555;">
-  <em>Byeongja Day Pillar · 60 Pillars · Saju · 2026 Fortune</em>
+  <em>Byeongja Day Pillar · 60 Pillars · Saju · 2026 Fortune · lang:en</em>
 </p>
